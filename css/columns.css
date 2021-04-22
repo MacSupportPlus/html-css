@@ -1,0 +1,26 @@
+
+.column1{
+    background-color: purple;
+    display: inline-block;
+    width: 20%;
+    height: 700px
+}
+.column2{
+    background-color: yellow;
+    width: 79%;
+    display: inline-block;
+    height: 700px
+
+}
+.holygrail{
+    background-color: gold;
+    position: relative;
+    height: 1800px; 
+}
+.header{
+    background-color: green;
+    height: 10%;
+    width: 100%;
+    position: fixed;
+
+}

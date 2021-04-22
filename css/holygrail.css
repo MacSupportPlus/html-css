@@ -1,0 +1,37 @@
+body{
+    margin: 0px;
+}
+header {
+    height: 20vh;
+    background-color: purple;
+}
+main{
+    height: 60vh;
+    background-color: yellow;
+    position: relative;
+}
+footer{
+    height: 20vh;
+    background-color: green;
+}
+.leftContainer{
+    height: 100%;
+    background-color: pink;
+    position: absolute;
+    width: 20vw;
+    left: 20%;
+}
+.rightContainer{
+    height: 100%;
+    background-color: orange;
+    floa
+    width: 20vw;
+    right: 20%;
+}
+.middle{
+    height: 100%;
+    background-color: blue;
+    position: absolute;
+    width: 60vw;
+
+}

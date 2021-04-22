@@ -1,0 +1,41 @@
+body{
+    display: flex;
+    
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+.container {
+    display: flex;
+    border: 2px solid black;
+    flex-direction: column;
+    background-color: yellow;
+    height: 56vh;
+    width: 56vw;
+    margin:  0 auto;
+}
+.row {
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    
+}
+    
+    
+.blue {
+    background-color: tan;
+
+    
+
+}
+
+.black {
+    background-color: brown;
+    
+    
+    
+}
+.flex1 {
+    flex : 1;
+    border : 1px solid black;
+}
